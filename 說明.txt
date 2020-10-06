@@ -1,0 +1,2 @@
+因爲它有一些奇怪的操作所以不能直接拉進瀏覽器運行。
+你需要自建服務器，一個可行的方法是安裝http-server，在這個路徑啓動。然後「http://localhost:8080/librian/librian本體/前端/adv.html」。
