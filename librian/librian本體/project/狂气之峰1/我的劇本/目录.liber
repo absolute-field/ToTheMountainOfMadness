@@ -1,5 +1,51 @@
 > BGM russia.mp3
 > BG mountain.jpg
+```html
+<style>
+[選項號]{
+    width: 20% !important;
+    height: 20% !important;
+    display: inline-block !important;
+    background-size: cover !important;
+    text-shadow: 0px 0px 5px #000 !important;
+    box-shadow: 0px 0px 20px #000 !important;
+}
+[選項號="0"]{
+    background-image: url("../project/狂气之峰1/我的圖片/plane.jpg") !important;
+}
+[選項號="1"]{
+    background-image: url("../project/狂气之峰1/我的圖片/南极.jpeg") !important;
+}
+[選項號="2"]{
+    background-image: url("../project/狂气之峰1/我的圖片/雪山.jpg") !important;
+}
+[選項號="3"]{
+    background-image: url("../project/狂气之峰1/我的圖片/星空.jpg") !important;
+}
+[選項號="4"]{
+    background-image: url("../project/狂气之峰1/我的圖片/6k.jpg") !important;
+}
+[選項號="5"]{
+    background-image: url("../project/狂气之峰1/我的圖片/mountain.jpg") !important;
+}
+[選項號="6"]{
+    background-image: url("../project/狂气之峰1/我的圖片/绝顶.jpg") !important;
+}
+[選項號="7"]{
+    background-image: url("../project/狂气之峰1/我的圖片/修叽.jpg") !important;
+}
+[選項號="8"]{
+    background-image: url("../project/狂气之峰1/我的圖片/和風縁側.jpg") !important;
+}
+</style>
+```
 欢迎阅读此次replay！
-? 车卡&登山前的准备 -> 登山前.liber
-? 来到南极开始爬山 -> 爬山开始.liber
+? 登山前的准备 -> 登山前.liber
+? 来到南极 -> 爬山开始.liber
+? 修格斯山棱 -> 修格斯山棱.liber
+? 彩虹谷 -> 狗斗.liber
+? 来到8k -> 八千.liber
+? 登顶前的准备 -> 登顶前的准备.liber
+? 登顶！ -> 登顶.liber
+? 逃亡 -> 逃亡.liber
+? 后日谈 -> 后日谈.liber
